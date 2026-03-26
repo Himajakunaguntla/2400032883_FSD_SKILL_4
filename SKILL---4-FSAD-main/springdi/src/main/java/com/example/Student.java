@@ -11,8 +11,8 @@ public class Student {
     private int year;
 
     public Student() {
-        this.studentId = 102;
-        this.name = "Bhavani";
+        this.studentId = 180;
+        this.name = "Himaja";
         this.course = "Spring Core";
         this.year = 2026;
     }
